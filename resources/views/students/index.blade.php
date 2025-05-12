@@ -31,7 +31,7 @@
                     </tr>
                     @if ($students->isEmpty())
                     <tr>
-                        <td colspan="7" class="text-center text-danger">No students found.git</td>
+                        <td colspan="7" class="text-center text-danger">No students found.</td>
                     </tr>
                     @endif
                     {{-- Loop through the students and display them --}}
